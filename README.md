@@ -1,4 +1,4 @@
-# bruteforcetxt
+# brutecointxt
 
 ## Table of contents
 * [Description](#description)
