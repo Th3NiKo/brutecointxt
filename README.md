@@ -34,16 +34,16 @@ Simple dockerfile included.
 
 Example build (if u are inside script folder):
 ```
-docker build -t bruteforcetxt .
+docker build -t brutecointxt .
 ```
 
 then u can use it (as one time run on test.txt)
 ```
-docker run --rm --name bruteforcetxt-running bruteforcetxt
+docker run --rm --name brutecointxt-running brutecointxt
 ```
 or to use script from console
 ```
-docker run -it --name bruteforcetxt-run bruteforcetxt /bin/bash  
+docker run -it --name brutecointxt-run brutecointxt /bin/bash  
 ```
 
 ## Usage
