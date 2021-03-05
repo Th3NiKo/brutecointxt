@@ -3,8 +3,6 @@
 ## Table of contents
 * [Description](#description)
 * [Getting Started](#getting-started)
-** [Quick start](#quick-start)
-** [Docker](#docker)
 * [Usage](#usage)
 * [Output](#output)
 
