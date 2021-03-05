@@ -14,7 +14,7 @@ DISCLAIMER: Program created for educational purposes only. \
 Don't steal anybody bitcoins and don't use easy to guess passphrases.
 
 ## Getting Started
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J10ZQep7UX2BU3MnaWLJbwfe9nBuq9lP?usp=sharing)
 ### Quick start
 You need python3.x in order to use script.
 
