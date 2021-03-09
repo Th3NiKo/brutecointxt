@@ -7,7 +7,7 @@
 * [Output](#output)
 
 ## Description
-Simple script to brute force text file filled with passphrases and print any keys with available balance. \
+Simple script to brute force bitcoin wallets with text file filled with passphrases and print any keys with available balance. \
 Program check for both compressed and uncompressed versions of addresses using [bit](https://github.com/ofek/bit) library.
 
 DISCLAIMER: Program created for educational purposes only. \
