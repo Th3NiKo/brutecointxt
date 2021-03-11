@@ -113,5 +113,4 @@ Private key wif:  L5etHr5JZE7BN9MVCJ67nn2teaFSVFjdXugDkdBiThct9KjRDfGw
 Compressed address:  1Ef4TwFNkPtbdRjmyZ5P4ExcgpA5pK5T4e
 Balance:  0.0
 
-
 ```
